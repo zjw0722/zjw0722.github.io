@@ -1,5 +1,11 @@
-body
-{
+body {
 	background-image:url("../image/where-is-a-shell-there-is-a-way.png");
 	background-color:RGB(0, 0, 0);
+}
+.wrap {
+	margin:0 auto;
+	width:960px;
+}
+.wrap img {
+	height:480px;
 }
